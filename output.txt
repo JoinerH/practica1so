@@ -1,0 +1,17 @@
+Matriz de los platos: 
+1111100000
+0001111100
+0100000111
+1111100000
+0001111100
+0100000111
+0100000111
+0100000111
+0100000111
+
+Vector solución: 021354678, 
+con un total de: 26 ingredientes diferentes.
+
+El pedido 0 contiene: champi, cebolla, pimenton, jamon, ajo, aji, queso, garbanzo, 
+El pedido 1 contiene: champi, cebolla, pimenton, jamon, ajo, huevo, cilantro, aji, queso, garbanzo, 
+El pedido 2 contiene: cebolla, jamon, ajo, huevo, cilantro, aji, queso, garbanzo, 
